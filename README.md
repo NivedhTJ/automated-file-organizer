@@ -18,3 +18,5 @@
 * Pillow
 * pikepdf
 * python-docx
+
+Note: SysClean is a fun personal project built for learning and experimentation. Always back up important files before running it, and use it at your own risk.
