@@ -4,13 +4,13 @@
 
 ## Features
 
-* ** Smart Organization:** Automatically sorts files into categorized subfolders (`Images/`, `Documents/`, `Video/`, etc.) based on their extensions.
-* ** Privacy Protection (Shredding):** Strips identifiable hidden metadata from files:
+* **Smart Organization:** Automatically sorts files into categorized subfolders (`Images/`, `Documents/`, `Video/`, etc.) based on their extensions.
+* **Privacy Protection (Shredding):** Strips identifiable hidden metadata from files:
   * **Images:** Removes EXIF data (GPS coordinates, camera models, dates).
   * **PDFs:** Clears author details, creation dates, and software tags.
   * **Word Docs (.docx):** Wipes core properties like author names and editing history.
-* ** Deduplication:** Uses SHA-256 hashing to find and delete exact duplicate files, even if they have different file names.
-* ** Collision Safe:** Intelligently renames files if a file with the same name already exists in the destination folder, preventing accidental overwrites.
+* **Deduplication:** Uses SHA-256 hashing to find and delete exact duplicate files, even if they have different file names.
+* **Collision Safe:** Intelligently renames files if a file with the same name already exists in the destination folder, preventing accidental overwrites.
 
 ## 🛠️ Prerequisites
 
